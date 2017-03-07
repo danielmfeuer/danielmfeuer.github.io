@@ -8,7 +8,7 @@ var background;
 function preload() {
   skull = loadImage('images/skull.png');
   guitar = loadImage('images/Guitar.png');
-  bone = loadImage('images/shot.png');
+  bone = loadImage('images/Shot.png');
   skullface = loadImage('images/skullback.jpg');
 }
 
